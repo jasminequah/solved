@@ -11,6 +11,8 @@ This is a big problem, worsened by the difficulty of connecting with experts in 
 
 Solved. is a platform which strives to change this by connecting people from different fields, and enabling easier discovery of new technologies. Our users have the ability to start discussions to express ideas or interest, and get feedback from experts in that field, encouraging inter-disciplinary collaboration.
 
+![Demo Gif](public/images/demo.gif)
+
 ## Dependencies
 
 This project was written using Node.js with an Express.js web framework, backed by MongoDB and using Jade/Pug as a HTML template engine.
